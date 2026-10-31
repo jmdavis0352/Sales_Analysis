@@ -1,5 +1,5 @@
 ---
-title: "Ozaki Fine Art Sales Trends"
+title: "Sales Trends"
 format:
   dashboard:
     theme: darkly
