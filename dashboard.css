@@ -1,0 +1,14 @@
+figure svg[font-size] [aria-label="y-grid"] line,
+figure svg[font-size] [aria-label="x-grid"] line {
+  stroke: #77818d !important;
+  stroke-opacity: 0.75 !important;
+}
+
+figure svg[font-size] [aria-label="tip"] text {
+  fill: #212529 !important;
+}
+
+figure svg[font-size] [aria-label="tip"] path {
+  fill: #f1f3f5 !important;
+  stroke: #212529 !important;
+}

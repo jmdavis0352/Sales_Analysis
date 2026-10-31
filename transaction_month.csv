@@ -1,0 +1,68 @@
+Year,Month,Year_Month,Source,Gross_sales
+2025.0,Jan,2025-01-01,Appointments,120.0
+2025.0,Jan,2025-01-01,Point of Sale,655.0
+2025.0,Feb,2025-02-01,Appointments,55.0
+2025.0,Feb,2025-02-01,Point of Sale,2604.0
+2025.0,Mar,2025-03-01,Appointments,15.0
+2025.0,Mar,2025-03-01,Point of Sale,787.0
+2025.0,Apr,2025-04-01,Appointments,70.0
+2025.0,Apr,2025-04-01,Point of Sale,130.0
+2025.0,May,2025-05-01,Appointments,160.0
+2025.0,May,2025-05-01,Point of Sale,1020.0
+2025.0,Jun,2025-06-01,Appointments,285.0
+2025.0,Jun,2025-06-01,Invoices,500.0
+2025.0,Jun,2025-06-01,Point of Sale,145.0
+2025.0,Jul,2025-07-01,Appointments,540.0
+2025.0,Jul,2025-07-01,Invoices,500.0
+2025.0,Jul,2025-07-01,Point of Sale,270.0
+2025.0,Jul,2025-07-01,eCommerce Integrations,0.0
+2025.0,Aug,2025-08-01,Appointments,1300.0
+2025.0,Aug,2025-08-01,Point of Sale,441.5
+2025.0,Sep,2025-09-01,Appointments,985.0
+2025.0,Sep,2025-09-01,Invoices,211.2
+2025.0,Sep,2025-09-01,Point of Sale,9036.0
+2025.0,Sep,2025-09-01,eGift Cards,0.0
+2025.0,Oct,2025-10-01,Appointments,590.0
+2025.0,Oct,2025-10-01,Invoices,150.0
+2025.0,Oct,2025-10-01,Point of Sale,1095.0
+2025.0,Nov,2025-11-01,Appointments,1095.0
+2025.0,Nov,2025-11-01,Point of Sale,500.0
+2025.0,Nov,2025-11-01,eGift Cards,0.0
+2025.0,Dec,2025-12-01,Appointments,1155.0
+2025.0,Dec,2025-12-01,Invoices,75.0
+2025.0,Dec,2025-12-01,Point of Sale,3665.0
+2025.0,Dec,2025-12-01,eGift Cards,0.0
+2026.0,Jan,2026-01-01,Appointments,2700.0
+2026.0,Jan,2026-01-01,Invoices,15.0
+2026.0,Jan,2026-01-01,Point of Sale,3465.0
+2026.0,Jan,2026-01-01,eCommerce Integrations,0.0
+2026.0,Feb,2026-02-01,Appointments,2037.0
+2026.0,Feb,2026-02-01,Invoices,359.63
+2026.0,Feb,2026-02-01,Point of Sale,300.0
+2026.0,Feb,2026-02-01,eCommerce Integrations,0.0
+2026.0,Mar,2026-03-01,Appointments,1365.0
+2026.0,Mar,2026-03-01,Invoices,190.0
+2026.0,Mar,2026-03-01,Point of Sale,475.0
+2026.0,Mar,2026-03-01,eCommerce Integrations,0.0
+2026.0,Mar,2026-03-01,eGift Cards,0.0
+2026.0,Apr,2026-04-01,Appointments,1120.0
+2026.0,Apr,2026-04-01,Point of Sale,4400.0
+2026.0,Apr,2026-04-01,eCommerce Integrations,0.0
+2026.0,May,2026-05-01,Appointments,980.0
+2026.0,May,2026-05-01,Point of Sale,799.79
+2026.0,Jun,2026-06-01,Appointments,1330.0
+2026.0,Jun,2026-06-01,Point of Sale,375.0
+2026.0,Jul,2026-07-01,Appointments,1720.0
+2026.0,Jul,2026-07-01,Point of Sale,125.0
+2026.0,Aug,2026-08-01,Appointments,1050.0
+2026.0,Aug,2026-08-01,Point of Sale,719.0
+2026.0,Sep,2026-09-01,Appointments,740.0
+2026.0,Sep,2026-09-01,Point of Sale,9355.61
+2026.0,Oct,2026-10-01,Appointments,607.0
+2026.0,Oct,2026-10-01,Point of Sale,189.0
+2026.0,Oct,2026-10-01,eGift Cards,0.0
+,,,Appointments,
+,,,Invoices,
+,,,Point of Sale,
+,,,eCommerce Integrations,
+,,,eGift Cards,
