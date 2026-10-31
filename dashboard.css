@@ -4,6 +4,10 @@ figure svg[font-size] [aria-label="x-grid"] line {
   stroke-opacity: 0.75 !important;
 }
 
+.bslib-sidebar-layout > .collapse-toggle {
+  color: #f1f3f5 !important;
+}
+
 svg [aria-label="tip"] text,
 svg [aria-label="tip"] tspan {
   fill: #212529 !important;

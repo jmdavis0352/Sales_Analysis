@@ -3,5 +3,5 @@ project:
   output-dir: _site
 
 website:
-  title: "Ozaki Fine Art Sales Trends"
+  title: "Illustration of Trends"
   navbar: false
