@@ -4,11 +4,12 @@ figure svg[font-size] [aria-label="x-grid"] line {
   stroke-opacity: 0.75 !important;
 }
 
-figure svg[font-size] [aria-label="tip"] text {
+svg [aria-label="tip"] text,
+svg [aria-label="tip"] tspan {
   fill: #212529 !important;
 }
 
-figure svg[font-size] [aria-label="tip"] path {
+svg [aria-label="tip"] path {
   fill: #f1f3f5 !important;
   stroke: #212529 !important;
 }
